@@ -1,0 +1,8 @@
+
+dbconfig:
+  connectionString:
+    - asdasdas
+  user:
+    - root
+  password:
+    - 123
